@@ -413,7 +413,7 @@ Neural-City/
 │   ├── package.json
 │   └── vite.config.js
 │
-├── 📂 Server/
+├── 📂 Server/backend
 │   ├── 📂 routes/
 │   │   └── query_routes.py
 │   │
