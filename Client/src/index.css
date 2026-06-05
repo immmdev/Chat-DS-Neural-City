@@ -37,6 +37,20 @@
     @apply bg-[#0b0b18] text-[#e4e4f7] antialiased overflow-x-hidden;
     font-family: "Inter", system-ui, sans-serif;
   }
+  ::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(99, 103, 255, 0.3);
+    border-radius: 9999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(99, 103, 255, 0.55);
+  }
 }
 
 @utility island-nav {
