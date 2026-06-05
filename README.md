@@ -443,17 +443,13 @@ Neural-City/
 
 ---
 
-# 👨‍💻 Developer Contact
+# Developer Contact
 
-<div align="center">
+<div>
 
 ### Dev Singh
-
-📧 Email: myselfdevsingh123@gmail.com  
-📱 WhatsApp: +91 7235898946  
-🎓 B.Tech CSE Student at IET Lucknow  
-💻 MERN Stack Developer | AI/ML Enthusiast | Open Source Learner  
-
+Email: myselfdevsingh123@gmail.com  
+WhatsApp: +91 7235898946  
 </div>
 
 ---
