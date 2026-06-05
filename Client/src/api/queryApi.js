@@ -1,4 +1,4 @@
-const BASE_URL = import.meta.env.VITE_API_BASE_URL || "https://chat-ds-neural-city-2.onrender.com";
+const BASE_URL = import.meta.env.VITE_API_BASE_URL || "https://neural-city.onrender.com";
 
 // ── Simple in-memory cache ──
 const cache = new Map();
