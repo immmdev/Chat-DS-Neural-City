@@ -627,8 +627,6 @@
     .main { padding: 2rem; }
   }
 </style>
-</head>
-<body>
 <div class="page">
 
   <!-- SIDEBAR -->
