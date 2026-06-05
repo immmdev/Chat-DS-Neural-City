@@ -39,7 +39,7 @@ DATA_PATH = os.getenv(
     "DATASET_PATH",
     str(Path(__file__).parent / "data" / "accidents.csv"),
 )
-GEMINI_API_KEY = os.getenv("GOOGLE_API_KEY", "AIzaSyBbCfx1y3ebvC8G8ZYW8q1TBEjT8kSealU")
+GEMINI_API_KEY = os.getenv("GOOGLE_API_KEY")
 
 
 # ── Lifespan (startup / shutdown) ────────────────────────────────────────────
